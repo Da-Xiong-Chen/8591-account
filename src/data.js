@@ -18,7 +18,6 @@ const menu = [
     price: 1063,
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
     desc: `簽卡岡本 國家岡本 辰己 柳田悠岐 大島 鈴木將平 高橋宏斗 與座 石原 中日一壘洋砲 山崎颯`,
-    // 目前玩的
   },
   {
     id: 3,
@@ -128,6 +127,7 @@ const menu = [
     price: 0,
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
     desc: `近藤健介 辰己 島內 鹽見 高橋宏斗 湯淺 高梨 松井 今野 中村獎悟 拓瑞輝 辰己 簽卡近本 森浦 西村 宮崎 村上`,
+     // 目前玩的
   },
   {
     id: 16,
