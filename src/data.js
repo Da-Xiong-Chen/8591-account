@@ -12,7 +12,7 @@ const menu = [
   },
   {
     id: 2,
-    title: "11s+17a+125金球",
+    title: "31s+64a+1036金球",
     chinese: "已上架 2mdsxje3",
     category: "HotPot",
     price: 1063,
