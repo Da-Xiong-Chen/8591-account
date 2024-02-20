@@ -1,44 +1,18 @@
 // 此商品暫無照片 https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg
 const menu = [
-  {
-    id: 1,
-    title: "14S+22A+1948金球 佐佐木朗希 宮城 SOTO",
-    chinese: "已上架 jhb2cdgk",
-    category: "HotPot",
-    price: 531,
-    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `佐佐木朗希 村上 石原 SOTO 上川佃 宮城 岸孝之 濱口 MOINELO 藤井 栗林 宗佑磨 京田 濱田 `,
-    
-  },
-  {
+   {
     id: 2,
-    title: "31s+64a+1036金球",
-    chinese: "已上架 2mdsxje3",
-    category: "HotPot",
-    price: 1063,
-    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `簽卡岡本 國家岡本 辰己 柳田悠岐 大島 鈴木將平 高橋宏斗 與座 石原 中日一壘洋砲 山崎颯`,
-  },
-  {
-    id: 3,
-    title: "17S+15A+600金球",
-    chinese: "已上架 452ts9ru",
-    category: "HotPot",
-    price: 325,
-    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `石原 外崎 源田 福田 野間 吉川尚 阿部 紅林 小園 包爾 戶鄉 北山 岩崎 茶古 廣島洋投`,
-  },
-  {
-    id: 4,
-    title: "15s+20a+141金球",
-    chinese: "未上架 a69z4drx",
+    title: "16S+16A+189金球",
+    chinese: "未上架 tsewv4pm",
     category: "HotPot",
     price: 0,
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `中村 源田 高橋宏斗 藤川 松井 藤井 福田 近本 泉(軟銀) 木澤 早川 牧秀悟 山崎伊 上川佃`,
+    desc: `筒香 周東 丸佳浩 濱口 高梨裕念 山崎颯 今永 大勢 大島 簽卡松井 中日一壘洋砲 源田 及川 伊藤將司 濱口 森友哉`,
+    // 目前玩的
   },
+  
   {
-    id: 5,
+    id: 3,
     title: "13s+14a+136金球",
     chinese: "未上架 cdrxjhkz",
     category: "HotPot",
@@ -47,7 +21,7 @@ const menu = [
     desc: `岡本 湯淺 桑田 高橋周 石山 藤井 安樂 愛斗 加藤 宮城 高部 嘉弭真 中村`,
   },
   {
-    id: 6,
+    id: 4,
     title: "14s+14a+126金球",
     chinese: "未上架 xvk6y73g",
     category: "HotPot",
@@ -56,7 +30,7 @@ const menu = [
     desc: `今永 松井 荒木 大島 岩崎 茶古*2 原樹理 源田 與座 萬波 上川佃 廣島洋將 高部英斗`,
   },
   {
-    id: 7,
+    id: 5,
     title: "15s+16a+116金球",
     chinese: "未上架 c37u8qbw",
     category: "HotPot",
@@ -66,7 +40,7 @@ const menu = [
   },
   
   {
-    id: 9 ,
+    id: 6 ,
     title: "14S+16A+121金球",
     chinese: "未上架 32mtq5dw",
     category: "HotPot",
@@ -75,7 +49,7 @@ const menu = [
     desc: `宮城 松井 桑田 牧原大成 高梨雄平 大城 辰己 森協 伊勢 巨人隊洋投 西武洋投 包爾 近藤 大野雄大`,
   },
   {
-    id: 10,
+    id: 7,
     title: "14S+14A+136金球",
     chinese: "未上架 bshxc785",
     category: "HotPot",
@@ -84,7 +58,7 @@ const menu = [
     desc: `戶鄉 松井 桑原 中村獎悟 原樹理 山崎颯 清水 湯淺 岡林 五十幡 高橋宏斗 山川 森下 安樂`,
   },
   {
-    id: 11,
+    id: 8,
     title: "16S+16A+131金球",
     chinese: "未上架 e7twnbp6",
     category: "HotPot",
@@ -93,7 +67,7 @@ const menu = [
     desc: `坂本城志郎 soto 簽卡山田 周東 杉本 今永 田中 牧原大 戶鄉 長岡 伊勢 五十幡 高橋宏斗 村上 三森 養樂多洋投`,
   },
   {
-    id: 12 ,
+    id: 9,
     title: "14S+14A+169金球",
     chinese: "未上架 qmv4h7xj",
     category: "HotPot",
@@ -102,16 +76,16 @@ const menu = [
     desc: `今宮 大島 戶鄉 湯淺 原樹理 高梨 清水 水上 大勢 藤川 簽卡松井 soto 小幡 中川皓太`,
   },
   {
-    id: 13,
-    title: "16S+16A+189金球",
-    chinese: "未上架 tsewv4pm",
+    id: 10,
+    title: "15s+20a+141金球",
+    chinese: "未上架 a69z4drx",
     category: "HotPot",
     price: 0,
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `筒香 周東 丸佳浩 濱口 高梨裕念 山崎颯 今永 大勢 大島 簽卡松井 中日一壘洋砲 源田 及川 伊藤將司 濱口 森友哉`,
+    desc: `中村 源田 高橋宏斗 藤川 松井 藤井 福田 近本 泉(軟銀) 木澤 早川 牧秀悟 山崎伊 上川佃`,
   },
   {
-    id: 14,
+    id: 11,
     title: "15S+17A+136金球",
     chinese: "未上架 e6natj7f",
     category: "HotPot",
@@ -119,18 +93,9 @@ const menu = [
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
     desc: `拓植 簽卡包爾 西純 高橋宏斗 湯淺 荒木 嘉渳真 島內 近藤大亮 加藤 石井 森下 野間 小川`,
   },
+  
   {
-    id: 15,
-    title: "17S+11A+131金球",
-    chinese: "未上架 xs6rwfye",
-    category: "HotPot",
-    price: 0,
-    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `近藤健介 辰己 島內 鹽見 高橋宏斗 湯淺 高梨 松井 今野 中村獎悟 拓瑞輝 辰己 簽卡近本 森浦 西村 宮崎 村上`,
-     // 目前玩的
-  },
-  {
-    id: 16,
+    id: 12,
     title: "15S+16A+156金球",
     chinese: "未上架 cptn4h7m",
     category: "HotPot",
@@ -139,7 +104,7 @@ const menu = [
     desc: `近藤健介 山本 湯淺 宮城 高梨雄平 牧原大城*2 簽卡藤井 松本 原樹理 福田 板東 村上颂數 茶古 藤岡`,
   },
   {
-    id: 17,
+    id: 13,
     title: "14S+18A+111金球",
     chinese: "未上架 pvc6wjqa",
     category: "HotPot",
@@ -148,7 +113,7 @@ const menu = [
     desc: `小幡 五十幡 大田 戶鄉 柳裕也 松井 桑田 安達 岩貞 簽卡藤井 近藤大亮 橫川凱 村林 廣島洋投`,
   },
   {
-    id: 18,
+    id: 14,
     title: "13S+19A+141金球",
     chinese: "未上架 35yjfc6q",
     category: "HotPot",
@@ -157,7 +122,7 @@ const menu = [
     desc: `國家隊近藤健介 近藤健介*2 簽卡松井 松井 石原 和田毅 則本 岩貞 岩崎 清宮 與座 佐藤督志也`,
   },
   {
-    id: 19,
+    id: 15,
     title: "15S+13A+149金球",
     chinese: "未上架 9fhmwj2q",
     category: "HotPot",
