@@ -2,10 +2,10 @@
 const menu = [
    {
     id: 2,
-    title: "16S+16A+189金球",
-    chinese: "未上架 tsewv4pm",
+    title: "17S+21A+1584金球",
+    chinese: "已上架 tsewv4pm",
     category: "HotPot",
-    price: 0,
+    price: 531,
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
     desc: `筒香 周東 丸佳浩 濱口 高梨裕念 山崎颯 今永 大勢 大島 簽卡松井 中日一壘洋砲 源田 及川 伊藤將司 濱口 森友哉`,
     // 目前玩的
