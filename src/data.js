@@ -2,7 +2,7 @@
 const menu = [
    {
     id: 2,
-    title: "17S+21A+1584金球",
+    title: "18S+21A+1624金球",
     chinese: "已上架 tsewv4pm",
     category: "HotPot",
     price: 531,
