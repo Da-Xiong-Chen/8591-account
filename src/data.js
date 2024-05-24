@@ -3,7 +3,7 @@ const menu = [
   {
     id: 1,
     title: "19s+29a+1535金球",
-    chinese: "未上架 c37u8qbw",
+    chinese: "已上架 c37u8qbw",
     category: "HotPot",
     price: 0,
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
