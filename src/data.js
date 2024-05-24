@@ -5,8 +5,8 @@ const menu = [
     title: "19s+29a+1535金球",
     chinese: "已上架 c37u8qbw",
     category: "HotPot",
-    price: 0,
-    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
+    price: 531,
+    img: "https://greensupply.cm.tw/file/user/product/594prodImg20180823033006_1.jpg",
     desc: `源田 今永 筒香 上澤 石川步 茶古 山崎颯 清水 湯淺*2 野村 五十幡 包爾(大聯盟強投) 井上 茶古`,
   },
   {
