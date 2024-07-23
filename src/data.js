@@ -1,16 +1,16 @@
 // 此商品暫無照片 https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg
 const menu = [
   {
-    id: 1,
-    title: "19s+29a+1535金球",
-    chinese: "已上架 c37u8qbw",
+    id: 2,
+    title: "17s+23a+1591金球",
+    chinese: "已上架 cdrxjhkz",
     category: "HotPot",
-    price: 531,
-    img: "https://greensupply.cm.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `源田 今永 筒香 上澤 石川步 茶古 山崎颯 清水 湯淺*2 野村 五十幡 包爾(大聯盟強投) 井上 茶古`,
+    price: 0,
+    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
+    desc: `岡本 湯淺 桑田 高橋周 石山 藤井 安樂 愛斗 加藤 宮城 高部 嘉弭真 中村`,
   },
   {
-    id: 2,
+    id: 3,
     title: "14s+14a+126金球",
     chinese: "未上架 xvk6y73g",
     category: "HotPot",
@@ -18,16 +18,6 @@ const menu = [
     img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
     desc: `今永 松井 荒木 大島 岩崎 茶古*2 原樹理 源田 與座 萬波 上川佃 廣島洋將 高部英斗`,
   },//目前玩的
-  {
-    id: 3,
-    title: "13s+14a+136金球",
-    chinese: "未上架 cdrxjhkz",
-    category: "HotPot",
-    price: 0,
-    img: "https://greensupply.com.tw/file/user/product/594prodImg20180823033006_1.jpg",
-    desc: `岡本 湯淺 桑田 高橋周 石山 藤井 安樂 愛斗 加藤 宮城 高部 嘉弭真 中村`,
-  },
-  
   {
     id: 4 ,
     title: "14S+16A+121金球",
